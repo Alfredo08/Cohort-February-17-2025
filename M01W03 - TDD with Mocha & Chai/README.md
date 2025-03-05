@@ -1,5 +1,5 @@
 # M01 W03 | TDD with Mocha and Chai
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M01W03%20-%20TDD%20with%20Mocha%20%26%20Chai) | [Vimeo Video Recording](https://vimeo.com/1062633329/b04f1ba86c?share=copy)
 
 ## Topics to cover
 
