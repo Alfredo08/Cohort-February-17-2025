@@ -1,5 +1,5 @@
 # M03 W06 | Web Servers 101
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M03W06%20-%20Web%20Servers%20101) | [Vimeo Video Recording](https://vimeo.com/1069431750/79fe7d6cb8?share=copy)
 
 ## Topics to cover
 
