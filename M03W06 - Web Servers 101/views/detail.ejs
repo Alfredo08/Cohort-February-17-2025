@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Topic detail </title>
+    </head>
+    <body>
+        <h1> Topic detail </h1>
+        <% if(error){ %>
+            <p> <%= message %> </p>
+        <% } else { %> 
+            <p> <%= topic.name %> - <%= topic.code %> </p>
+        <% } %>
+
+        <a href="/topics"> Go back to topic list </a>
+
+    </body>
+</html>
