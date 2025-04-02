@@ -1,0 +1,18 @@
+{
+  "name": "loginregistrationcookies",
+  "version": "1.0.0",
+  "description": "[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M03W07%20-%20HTTP%20Cookies%20%26%20User%20Authentication) | [Vimeo Video Recording]()",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
