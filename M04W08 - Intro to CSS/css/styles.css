@@ -1,0 +1,57 @@
+/* Try to avoid targeting selectors with ID */
+#title{
+    font-size: 40px;
+    background-color: rgb(131, 131, 131);
+    padding: 15px;
+}
+
+h2{
+    color: rgb(36, 36, 249);
+}
+
+.pending{
+    font-style: italic;
+    /* color: green; */
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem{
+    background-color: rgb(131, 131, 131);
+    color: white;
+    padding: 15px 50px;
+}
+
+ul, ol{
+    background-color: aqua;
+    padding: 20px;
+    list-style: none;
+}
+
+
+li{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    
+    /* border-style:double;
+    border-width: 5px;
+    border-color: red;; */
+}
+
+ol > li{
+    color: blue;
+    padding-left: 100px;
+}
+
+ol li{
+    font-style: italic;
+}
+
+/*
+    1. # id
+    2. . class
+    3. tag
+*/

@@ -1,0 +1,46 @@
+nav, div, main, section{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 20px;
+    /* flex-wrap: wrap; */
+}
+
+/*
+.nav-item{
+    flex: 1;
+}
+
+.special{
+    flex: 4;
+}
+*/ 
+
+/* flex-direction: row
+    justify-content - horizontal axis
+    align-items - vertical axis
+   
+   flex-direction: column
+    justify-content - vertical axis
+    align-items - horizonatl axis  */
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content{
+    flex: 4;
+}
