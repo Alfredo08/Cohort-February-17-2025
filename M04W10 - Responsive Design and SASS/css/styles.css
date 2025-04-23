@@ -1,0 +1,93 @@
+/* Styles for mobile devices and above */
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.logo-image{
+    width: 40%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(106, 105, 105);
+    color: white;
+}
+
+.menu{
+    display: none;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    gap: 5px;
+}
+
+.product{
+    border: 1px solid rgb(197, 197, 197);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+.social{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for tablet devices and above */
+@media screen and (min-width: 600px){
+    header{
+        flex-direction: row;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .social{
+        justify-content: space-around;
+    }
+}
+
+/* Styles for larger devices */
+@media screen and (min-width: 992px){
+    .hamburger{
+        display: none;
+    }
+
+    .menu{
+        display: flex;
+        list-style: none;
+        gap: 40px;
+        margin: 0;
+        padding: 15px;
+    }
+
+    main{
+        flex-direction: row;
+    }
+
+    .product{
+        flex: 1;
+    }
+}
+
+
+.div-items{
+    border: 1px solid black;
+}
