@@ -1,5 +1,5 @@
 # M04 W10 | Responsive Design and SASS
-[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M04W10%20-%20Responsive%20Design%20and%20SASS) | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M04W10%20-%20Responsive%20Design%20and%20SASS) | [Vimeo Video Recording](https://vimeo.com/1077818389/d8e883d743?share=copy)
 
 ## Topics to cover
 
