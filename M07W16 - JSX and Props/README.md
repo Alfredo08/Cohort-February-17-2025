@@ -1,5 +1,5 @@
 # M07 W16 | JSX and Props
-[Github Repository](https://github.com/Alfredo08/Cohort-September-18-2023/tree/main/W16M07%20-%20JSX%20Props) | [Vimeo Video Recording](https://vimeo.com/903532006/96857d120b?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M07W16%20-%20JSX%20and%20Props) | [Vimeo Video Recording](https://vimeo.com/1090321704/a4ec03117a?share=copy)
 
 ## Topics to cover
 - [ ] How to install React
