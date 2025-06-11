@@ -1,5 +1,5 @@
 # M07 W17 | What is React State?
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M07W17%20-%20What%20is%20React%20State) | [Vimeo Video Recording](https://vimeo.com/1092313679/f68adb0a5d?share=copy)
 
 ## Topics to cover
 - [x] What is state?
