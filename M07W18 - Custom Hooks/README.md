@@ -1,5 +1,5 @@
 # M07 W18 | Custom Hooks
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M07W18%20-%20Custom%20Hooks) | [Vimeo Video Recording](https://vimeo.com/1094246122/6668e332b1?share=copy)
 
 ## Topics to cover
 - [X] 1. What are Hooks?
