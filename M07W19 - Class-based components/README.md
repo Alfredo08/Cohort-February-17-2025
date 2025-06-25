@@ -1,5 +1,5 @@
 # M07 W19 | Class-based Components
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M07W19%20-%20Class-based%20components) | [Vimeo Video Recording](https://vimeo.com/1096114805/6eedad50d0?share=copy)
 
 ## Topics to cover
 
