@@ -1,5 +1,5 @@
 # M08 W21 | Real World React (Advanced Topics)
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-February-17-2025/tree/main/M08W21%20-%20Real%20World%20React%20(Advanced%20Topics)) | [Vimeo Video Recording](https://vimeo.com/1099844037/e5dc5d8247?share=copy)
 
 ## Topics to cover
 
